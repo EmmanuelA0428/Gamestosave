@@ -1,0 +1,183 @@
+#navbar {
+    display:flex;
+    justify-content:space-evenly;
+    background-color: rgb(36, 253, 246);
+    font-size:1000;
+    color:black;
+    border:solid white 2px
+}
+
+Div { 
+    font-family:Arial;
+    background-color:black;
+    color:white
+}
+
+img {
+    width:80px
+}
+
+div {color:white}
+
+button {color:rgb(163, 163, 182);
+    background-color:black;
+    font-size:40px
+}
+
+body {
+    background:black
+}
+
+#donationPage 
+    {color:white;
+    border: solid 3px blue;
+    display: flex;
+}
+       
+
+h2 {
+    color:coral;
+}
+
+p {
+    color:pink;
+}
+
+head{
+    background:white
+}
+
+#Header {
+    display: block;
+    border: solid 1px white;
+    padding: 2px;
+}
+
+#Header img { 
+    display:flex;
+    width:100px
+}
+
+h1 {
+    color: lightcyan
+}
+
+#TrashGame {
+    display: none;
+}
+
+#homePage {
+    display: none;
+}
+
+#donationPage {
+    display: none;
+}
+
+#contactPage {
+    display: none;
+}
+
+#gamePage {
+    display: none;
+}
+
+#WWF img {
+    width: 500px;
+}
+
+#WWF {
+    display:flex;
+    border: solid blue 5px;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+
+.items {
+    display:flex;
+    justify-Content: center;
+}
+
+#buttonA {
+    width:20px
+}
+
+#profilesSection {
+    display: none;
+    font-size:60px
+
+}
+
+#greenpeace{
+    display:flex;
+    border:solid coral 5px;
+    justify-content:space-between;
+    border-radius:10px;
+}
+
+#greenpeace img { 
+    width:300px 
+}
+
+#nhc{
+    display:flex;
+    border:solid lightgoldenrodyellow 5px;
+    justify-content:space-between;
+    border-radius:10px;
+}
+
+#profileInfo {
+    margin-top: 10px;
+    border:solid blue 5px;
+    border-radius:10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#profilepicture {
+    width: 200px;
+    border-radius:10px;
+    border: solid blue 3px;
+}
+
+#quests {
+    margin-top: 10px;
+    border:solid blue 5px;
+    border-radius:10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#quests span {
+    color: yellow;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+#achievements {
+    margin-top: 10px;
+    border:solid blue 5px;
+    border-radius:10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+li {
+    margin-top: 10px;
+    border: solid 3px white;
+    border-radius:10px;
+}
+
+#ourMission {
+    border:solid blue 3px ;
+    font-size: 30px;
+}
+
+.custom {
+    display:flex ;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+
+ 
